@@ -3,6 +3,6 @@
 for i in $@
 do
 	echo $i
-	echo "hiiiii"
+	echo "byeeee"
 done
 
