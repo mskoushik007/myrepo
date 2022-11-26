@@ -8,7 +8,8 @@ do
 	do
 		result=`expr $result \* $i`
 		i=`expr $i - 1`
+		echo " the factorial of $temp is $result"
 	done
-	echo " the factorial of $temp is $result"
+	
 	echo "checking for webhhook"
 done
